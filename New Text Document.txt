@@ -1,0 +1,27 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+        
+     
+     
+     int x =4;
+     int y =5;
+     System.out.println(x+y);
+     System.out.println(x*y);
+    if (x<5)
+     System.out.println("good day.");
+     else{
+         System.out.println("good night" );
+     }
+     String name = "zahraa ";
+     
+     String family = "khalaf";
+    
+     System.out.println(name + family);
+
+     
+     
+   
+}
+}
